@@ -1,0 +1,10 @@
+package com.epam.model;
+
+
+public class Bar {
+    String name;
+
+    Bar(String name) {
+        this.name = name;
+    }
+}
